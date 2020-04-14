@@ -1,6 +1,4 @@
-[首页](/) | [资源](/resources)
-
-## 文档
+## 所有文章
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
 {% for group in posts_by_year %}
