@@ -1,7 +1,7 @@
-title: Clean Jekyll Theme  
-url: https://professordeng.github.io
-baseurl: /theme
-description: ProfessorDeng
+title: 邓文宇的个人博客
+url: https://echobingo.github.io
+baseurl: /
+description: 技术博客
 # permalink: none
 
 math: "<script type=\"text/x-mathjax-config\">MathJax.Hub.Config({tex2jax: {inlineMath: [ ['$','$'] ]}});</script><script src=\"//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>"
