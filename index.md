@@ -1,6 +1,6 @@
-[Archives](/) | [Resources](/resources)
+[首页](/) | [资源](/resources)
 
-## List of Articles
+## 文档
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
 {% for group in posts_by_year %}
